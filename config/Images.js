@@ -1,0 +1,16 @@
+export default {
+  MediumBoiledLabel: require('../assets/images/MediumBoiledLabel.png'),
+  HardBoiledLabel: require('../assets/images/HardBoiledLabel.png'),
+  SoftBoiledLabel: require('../assets/images/SoftBoiledLabel.png'),
+  SoftBoiledHeaading: require('../assets/images/SoftBoiledHeaading.png'),
+  CountertopLight: require('../assets/images/CountertopLight.png'),
+  Sky: require('../assets/images/Sky.jpg'),
+  MainLogo: require('../assets/images/MainLogo.png'),
+  DraftbitIcon: require('../assets/images/DraftbitIcon.png'),
+  HookDatLogoShadowLarge: require('../assets/images/HookDatLogoShadowLarge.png'),
+  NewMobileBg: require('../assets/images/NewMobileBg.png'),
+  Space: require('../assets/images/Space.jpg'),
+  Logo: require('../assets/images/Logo.png'),
+  Publishbuttoin: require('../assets/images/Publishbuttoin.png'),
+  Previewbutton: require('../assets/images/Previewbutton.png'),
+};
